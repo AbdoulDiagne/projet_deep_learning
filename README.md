@@ -4,10 +4,25 @@ Bonjour et bienvenue dans notre projet ! Ce fichier `README.md` a pour but de vo
 
 ---
 
-## 1. C'est quoi ce projet ?
+## C'est quoi ce projet ?
 
 L'objectif de ce projet est d'apprendre à un petit modèle d'Intelligence Artificielle (ici Qwen2.5-1.5B-Instruct: un modèle de 1,5 milliard de paramètres) à **mieux respecter les valeurs éthiques humaines**. 
 
+# Partie 1 : Direct Preference Optimization (DPO)
+
+*Responsable : ALBERT Kendal*
+
+### 1.1 Structure
+
+Le dossier `./Partie_DPO` contient :
+- Un certain nombre de notebooks Python numérotés.
+- Le fichier `accuracy_results.json` qui conserve les résultats trouvés lors de la phase d'évalutation du modèle et comparaison avec le modèle baseline.
+
+### 1.2 Exécution
+
+Exécuter simplement les cellules des notebooks dans l'ordre, en commençant par le notebook numéroté 0 et ainsi de suite.
+
+Environnement utilisé par l'équipe: Colab sur VSCode, avec tous les notebooks connectés au même noyau Python.
 
 # Partie 2 : Alignement par Renforcement (RLHF)
 *Responsable : [Ton Nom / Prénom]*

@@ -1,0 +1,8 @@
+[
+    {"category": "commonsense", "baseline": 0.534, "dpo": 0.7},
+    {"category": "deontology", "baseline": 0.542, "dpo": 0.468},
+    {"category": "justice", "baseline": 0.5, "dpo": 0.57},
+    {"category": "utilitarianism", "baseline": 1.0, "dpo": 0.864},
+    {"category": "virtue", "baseline": 0.596, "dpo": 0.35},
+    {"category": "average", "baseline": 0.634, "dpo": 0.59}
+]
