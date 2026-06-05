@@ -1,0 +1,13 @@
+torch
+transformers
+accelerate
+peft
+trl==0.11.4
+datasets==2.21.0
+scikit-learn
+pandas
+numpy
+pyyaml
+tqdm
+sentencepiece
+protobuf
