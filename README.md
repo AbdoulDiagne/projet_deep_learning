@@ -66,3 +66,8 @@ HF_DATASETS_TRUST_REMOTE_CODE=1 python scripts/evaluate_ethics.py --config confi
 
 #### Tester notre modèle aligné par renforcement (PPO)
 HF_DATASETS_TRUST_REMOTE_CODE=1 python scripts/evaluate_ethics.py --config configs/rlhf.yaml --model aligned
+
+
+# Partie 3 : RAG-based Alignment
+
+Le fichier notebook de cette partie a été fourni à la racine du projet .
