@@ -10,7 +10,7 @@ L'objectif de ce projet est d'apprendre à un petit modèle d'Intelligence Artif
 
 # Partie 1 : Direct Preference Optimization (DPO)
 
-*Responsable : ALBERT Kendal*
+
 
 ### 1.1 Structure
 
@@ -25,7 +25,6 @@ Exécuter simplement les cellules des notebooks dans l'ordre, en commençant par
 Environnement utilisé par l'équipe: Colab sur VSCode, avec tous les notebooks connectés au même noyau Python.
 
 # Partie 2 : Alignement par Renforcement (RLHF)
-*Responsable : [Ton Nom / Prénom]*
 
 Pour y parvenir sous des contraintes techniques réalistes (comme l'utilisation de cartes graphiques gratuites sur Google Colab), nous avons implémenté la méthode **RLHF** (Reinforcement Learning from Human Feedback ou *Apprentissage par Renforcement à partir de Commentaires Humains*).
 
